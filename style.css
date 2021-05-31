@@ -2,7 +2,7 @@ table, th, td { border: 1px solid #gray;
 	border-collapse: collapse;
 	font-family: "handlee";
 	padding: 10px;}
-body {	background-color: #87CEFA;
+body {	background-image: url('bg.jpg');
 	text-align: left;}
 h1 {background-color : #FF6347 ;
 	font-family: Impact ;  
