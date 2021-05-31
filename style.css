@@ -26,4 +26,6 @@ p.one {border-style: solid;
   color: white;
 	font-size: 40px;
 	font-family: "handlee"}
+p.bottom {font-family: "handlee";
+font-size: 15px}
 	
