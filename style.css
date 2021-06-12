@@ -24,3 +24,4 @@ p.one {border-style: solid;
 p.bottom {font-family: "handlee";
 	font-size: 15px}
 
+.card {position: fixed}
